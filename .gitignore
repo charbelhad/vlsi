@@ -1,0 +1,10 @@
+# Ignore simulation junk
+simv
+simv.daidir/
+csrc/
+*.vpd
+*.log
+*.out
+*.key
+*.swp
+*~
